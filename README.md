@@ -107,7 +107,7 @@ Los modelos predictivos permiten identificar patrones que pueden ser utilizados 
 telecomx-churn-prediction
 │
 ├── telecomx_parte2_ml.ipynb
-├── datos_tratados.csv
+├── TelecomX_datos_tratados (4).csv
 └── README.md
 
 
